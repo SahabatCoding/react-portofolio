@@ -9,14 +9,14 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Chairul</h1>
         <p className={styles.description}>
-        Backend Developer, sesuai dengan passion saya dalam mengembangkan sistem yang efisien dan scalable.
+        Backend Developer, according to my passion in developing efficient and scalable systems.
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/profil.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
