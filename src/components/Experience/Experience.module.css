@@ -1,7 +1,7 @@
 @import "../../vars.css";
 
 .container {
-  color: var(--color-text);
+  color: #F5F5F5;
   margin-top: 79px;
   margin-left: 10%;
   margin-right: 10%;
@@ -65,12 +65,12 @@
 
 .historyItem {
   width: 450px;
-  height: 370px;
+  height: 460px;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 17px;
-  background: linear-gradient(90deg, #C93742 0%, rgba(25, 55, 109, 0) 100%);
+  background-color: #C93742;
   border-radius: 10px;
   padding: 24px;
 }
@@ -118,5 +118,7 @@
     width: 100%;
     gap: 9px;
   }
+
+ 
 
 }

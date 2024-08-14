@@ -1,7 +1,7 @@
 @import "../../vars.css";
 
 .container {
-  color: var(--color-text);
+  color: #F5F5F5;
   margin-top: 120px;
   background-color: #C93742;
   display: flex;
@@ -39,7 +39,7 @@
 }
 
 .link a {
-  color: var(--color-text);
+  color: #F5F5F5 ;
   text-decoration: none;
   font-size: 30px;
   font-weight: 400;
@@ -61,4 +61,17 @@
   .links {
     align-items: center;
   }
+
+  .link a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+  }
+
+  .text p {
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
+
 }
