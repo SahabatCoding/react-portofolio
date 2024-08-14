@@ -118,7 +118,9 @@
     width: 100%;
     gap: 9px;
   }
+  .historyItemDetails ul {
+    font-size: 21px;
+  }
 
- 
 
 }
