@@ -4,15 +4,15 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project to create an api destination, hotel and booking for web travel",
     "skills": ["Supertest", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://backend-travelkuy.vercel.app/",
+    "source": "https://github.com/SahabatCoding/backend-travelkuy.git"
   },
   {
     "title": "Project RestFull APIs",
     "imageSrc": "projects/project.png",
     "description": "This is a project to create a registration, contact and address api.",
     "skills": ["Supertest", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/SahabatCoding/Users-APIs.git",
+    "source": "https://github.com/SahabatCoding/Users-APIs.git"
   }
 ]
