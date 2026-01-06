@@ -1,5 +1,3 @@
-import React from "react";
-
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -10,21 +8,21 @@ export const About = () => {
       <div className={styles.content}>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/Trophy.png")} alt="Cursor icon" />
+            <img className={styles.aboutImage} src={getImageUrl("about/Trophy.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3> Backend Developer</h3>
               <p>
-                I'm a backend developer, my experience developing fast and optimised back-end systems
-                and APIs 
+                A Fullstack Developer with a strong academic background and a
+                strong interest in software development, supported by various training 
+                programs and intensive courses in software engineering.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/Pin.png")} alt="Server icon" />
+            <img className={styles.aboutImage} src={getImageUrl("about/Pin.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
               <p>
-                I have experience frontend developer with experience in building responsive and optimized sites
+                Experienced in backend and frontend development, database management,
+                and building efficient and scalable applications.
               </p>
             </div>
           </li>

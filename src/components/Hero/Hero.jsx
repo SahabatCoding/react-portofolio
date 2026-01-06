@@ -9,9 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Chairul</h1>
         <p className={styles.description}>
-        Backend Developer, according to my passion in developing efficient and scalable systems.
+        a Fullstack Developer passionate about building efficient and scalable applications.
         </p>
-        <a href="mailto:chairulyusuf29@gmail.com" className={styles.contactBtn}>
+        <a href="https://wa.me/089678767443" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
