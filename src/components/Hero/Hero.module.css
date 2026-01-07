@@ -87,6 +87,7 @@
   .heroImg {
     width: 50%;
     z-index: 1;
+    margin-bottom: 60px;
   
     animation-name: floating;
     animation-duration: 3s;
