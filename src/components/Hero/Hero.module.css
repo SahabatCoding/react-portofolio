@@ -77,12 +77,13 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 720px) {
   .description {
       text-align: center;
   }
   .title{
     text-align: center;
+    font-size: 80px;
   }
   .heroImg {
     width: 50%;
